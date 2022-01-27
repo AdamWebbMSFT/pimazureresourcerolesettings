@@ -6,7 +6,7 @@ When assisting a customer with automating configuration of PIM role settings for
 
 Documentation to configure the role settings manually for an Azure Resource can be located [here](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-resource-roles-configure-role-settings).
 
-## [PowerShell](./examples/pimrolesettings.ps1)
+## [PowerShell](./Examples/pimrolesettings.ps1)
 
 ### Pre-requisites
 
